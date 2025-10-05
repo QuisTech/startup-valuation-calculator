@@ -62,7 +62,7 @@ An OpenAI API key
 🚀 Quick Start
 1. Clone the Repository
 bash
-git clone https://github.com/your-username/startup-valuation-calculator.git
+git clone https://github.com/QuisTech/startup-valuation-calculator
 cd startup-valuation-calculator
 2. Install Dependencies
 bash
