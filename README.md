@@ -18,6 +18,18 @@ PDF Report Generation: Professional, investor-ready reports with company brandin
 
 Real-time Calculations: Instant results with detailed breakdowns
 
+
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/049435f8-e1a6-432a-846c-2f2aedc788f3" />
+
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/63c4aed0-56cc-4578-a95a-b4d6e9db01a0" />
+
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/6a11ac39-082e-4452-a914-353a963319fb" />
+
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/7da52d00-b80b-4221-8b03-3483e2b239d6" />
+
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/330aebea-a229-4a8a-9649-929bfd0a2b51" />
+
+
 Technical Features
 Multi-factor Valuation: Combines revenue multiples, user-based valuation, and industry-specific factors
 
