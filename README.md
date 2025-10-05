@@ -78,28 +78,10 @@ npm run dev
 Open http://localhost:3000 in your browser.
 
 📁 Project Structure
-text
-startup-valuation-calculator/
-├── components/
-│   ├── ValuationForm.tsx      # Main valuation calculator form
-│   └── Layout/
-│       ├── Header.tsx         # Navigation header
-│       └── Footer.tsx         # Site footer
-├── pages/
-│   ├── index.tsx              # Landing page
-│   ├── calculator/
-│   │   └── index.tsx          # Calculator page
-│   └── api/
-│       └── calculate-valuation.ts  # Valuation API endpoint
-├── services/
-│   ├── valuationService.ts    # Business logic for valuation
-│   ├── llmService.ts          # AI SWOT analysis service
-│   └── pdfService.ts          # PDF report generation
-├── types/
-│   └── index.ts               # TypeScript type definitions
-├── styles/
-│   └── globals.css            # Global styles and Tailwind imports
-└── public/                    # Static assets
+
+<img width="537" height="400" alt="Project Structure" src="https://github.com/user-attachments/assets/b191c888-b938-4e1e-8618-717656f5e23d" />
+
+
 💰 How Valuation Works
 The calculator uses a multi-factor approach:
 
