@@ -1,9 +1,12 @@
 Startup Valuation Calculator
 A modern web application that helps startups calculate their valuation using advanced algorithms and AI-powered SWOT analysis. Generate investor-ready PDF reports in minutes.
 
-https://img.shields.io/badge/Next.js-15.5.4-black?style=for-the-badge&logo=next.js
-https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript
-https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css
+**Next.js 15.5.4** - React Framework  
+**TypeScript 5.0** - Type Safety  
+**Tailwind CSS 3.3** - Styling  
+**LangChain** - AI Integration  
+**OpenAI GPT-3.5** - SWOT Analysis  
+**jsPDF** - Report Generation
 
 🚀 Features
 Core Functionality
