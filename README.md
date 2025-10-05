@@ -83,6 +83,7 @@ Open http://localhost:3000 in your browser.
 
 
 💰 How Valuation Works
+
 The calculator uses a multi-factor approach:
 
 Valuation Factors:
